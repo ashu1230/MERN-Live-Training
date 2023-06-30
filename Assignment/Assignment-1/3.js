@@ -1,4 +1,4 @@
-3.WAP to print area and perimeter of rectangle , taking input from the user , using prompt
+// 3.WAP to print area and perimeter of rectangle , taking input from the user , using prompt
 
 
 function AreaCal() {

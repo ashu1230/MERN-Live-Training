@@ -1,4 +1,4 @@
-// 2 . Reverse a given string using reverse() method 
+// 2 . Reverse a given string using reverse() method .
 // input = "BrainMentors"
 // output = "srotnemniarB"
 

@@ -4,4 +4,12 @@
 			
 // 		output = ['f','e','d','c','b','a']
 
+var arr = ['a','b','c','d','e','f']
+undefined
+
+var result = arr.reduceRight((acc, CV) => acc.concat(CV));
+undefined
+
+result.split("");
+(6) ['f', 'e', 'd', 'c', 'b', 'a']
 

@@ -12,3 +12,7 @@ undefined
 sum = arr.reduce(add)
 
 15
+
+
+
+// Hint:- https://medium.com/@chrisburgin95/rewriting-javascript-sum-an-array-dbf838996ed0

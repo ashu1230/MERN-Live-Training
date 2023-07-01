@@ -4,3 +4,11 @@
 // 		output: count = 4
 
 
+function countVowels(str) {
+    return ( str = str.match(/[aeiou]/gi)) ? str.length : 0;
+}
+
+
+console.log("Count: " + countVowels(prompt(str)));
+
+Count: 4

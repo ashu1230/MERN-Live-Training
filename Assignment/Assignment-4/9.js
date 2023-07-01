@@ -2,7 +2,7 @@
 
 // ex:- arr1 = [2,4,1,7,4,2] , arr2 = [5,1,4,7,3,1];
 
-// output = [1,4,7]
+// output = [1,4,7].
 
 function Intersetion (a,b) {
     var setA = new Set(a);

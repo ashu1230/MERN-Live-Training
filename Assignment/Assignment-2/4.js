@@ -2,7 +2,6 @@
 // Must contains @
 // Must ends with .com/.org/.edu
 
-
 function validateEmailAddress(email) {
   if (email.indexOf('@') === -1) {
     return false;

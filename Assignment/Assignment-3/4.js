@@ -35,6 +35,7 @@ function Employee(id, name, basicSalary) {
   function NS(){
       return NS = GS - taxDeduction;
   }
+  // By using function..
   console.log("Employee ID:", id);
   console.log("Employee Name:", name);
   console.log("Basic Salary:", basicSalary);

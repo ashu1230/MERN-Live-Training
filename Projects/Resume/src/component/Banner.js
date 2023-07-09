@@ -2,7 +2,8 @@ import BannerImage from '../assets/hero-bg.jpg'
 export const Banner = () => {
   return (<div className="relative ">
 
-    <div >
+
+    <div>
       <img className="w-screen h-[650px] opacity-60" src={BannerImage} alt="react logo"/>
     </div>
 

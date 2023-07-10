@@ -6,5 +6,5 @@ mkdir <folderName>
 cd <folderName>
 
 npx create-react-app <projectname>
-
+ 
 

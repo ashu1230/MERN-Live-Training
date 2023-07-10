@@ -1,0 +1,10 @@
+Project Steps
+1. Create a Folder in Some Location 
+e.g D: Drive c: Drive
+
+mkdir <folderName>
+cd <folderName>
+
+npx create-react-app <projectname>
+
+
